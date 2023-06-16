@@ -103,7 +103,7 @@ namespace CustomeLikedList
 
             }
         }
-        public void InsertAnywhere(T data, T search)
+        public void InsertAfter(T data, T search)
         {
             Node<T> newNode = new Node<T>(data);
             Node<T> temp = head;
