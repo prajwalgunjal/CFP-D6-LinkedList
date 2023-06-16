@@ -78,7 +78,30 @@ namespace CustomeLikedList
                 TempNode.next = null;
                 tail = TempNode;
             }
+        }
 
+        public void DeleteAny(T DeleteData)
+        {
+            Node<T> temp = head;
+            Node<T> temp2 = head.next;
+            Boolean flag = false;
+            while (temp != null && temp2 != null)
+            {
+                if (temp2.Data.Equals(DeleteData))
+                {
+                    flag = true;
+                    Console.WriteLine(temp2.Data + " Deleted ");
+                    temp.next = temp2.next; 
+                    temp2 = temp2.next;
+                }
+                if (!flag)
+                {
+                    Console.WriteLine("Sorry data is not present ");
+                }
+                temp = temp.next;
+                temp2 = temp2.next;
+
+            }
         }
 
         public void Display()

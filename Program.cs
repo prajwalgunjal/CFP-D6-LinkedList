@@ -9,7 +9,7 @@
             list.AddFirst("B");
             list.AddFirst("C");
             list.Display();
-            Console.WriteLine();
+            /*Console.WriteLine();
             list.AddLast("z");
             list.Display();
             Console.WriteLine();
@@ -17,6 +17,9 @@
             list.Display();
             Console.WriteLine();
             list.DeleteLast();
+            list.Display();*/
+            Console.WriteLine();
+            list.DeleteAny("B");
             list.Display();
         }
     }
