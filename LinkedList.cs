@@ -25,7 +25,7 @@ namespace CustomeLikedList
             }
         }
 
-       /* public void AddLast(T Data)
+        public void AddLast(T Data)
         {
             Node<T> newNode =new Node<T>(Data);
             if(head==null)
@@ -40,18 +40,18 @@ namespace CustomeLikedList
             }
         }
 
-        public void DeleteFirst()
-        {
-            if (head == null)
-            {
-                Console.WriteLine("No Data Avaliable");
-            }
-            else
-            {
-                Console.WriteLine(head.Data +"-> deleted successfully");
-                head =head.next;
-            }
-        }*/
+        /* public void DeleteFirst()
+         {
+             if (head == null)
+             {
+                 Console.WriteLine("No Data Avaliable");
+             }
+             else
+             {
+                 Console.WriteLine(head.Data +"-> deleted successfully");
+                 head =head.next;
+             }
+         }*/
 
         public void Display()
         {
