@@ -12,9 +12,9 @@
             Console.WriteLine();
             list.AddLast("z");
             list.Display();
-            /*Console.WriteLine();
+            Console.WriteLine();
             list.DeleteFirst();
-            list.Display();*/
+            list.Display();
         }
     }
 }
