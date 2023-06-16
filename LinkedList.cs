@@ -103,6 +103,24 @@ namespace CustomeLikedList
 
             }
         }
+        public void InsertAnywhere(T data, T search)
+        {
+            Node<T> newNode = new Node<T>(data);
+            Node<T> temp = head;
+            Node<T> temp2 = head;
+            while (temp != null && temp2 != null)
+            {
+                if (temp.Data.Equals( search))
+                {
+                    temp2 = temp2.next;
+                    temp.next = newNode;
+                    newNode.next = temp2;
+                    Console.WriteLine("Data inserted successfully!!");
+                }
+                temp = temp.next;
+                temp2 = temp2.next;
+            }
+        }
 
         public void Display()
         {

@@ -21,6 +21,9 @@
             Console.WriteLine();
             list.DeleteAny("B");
             list.Display();
+            Console.WriteLine();
+            list.InsertAfter("prajwal","C");
+            list.Display();
         }
     }
 }
