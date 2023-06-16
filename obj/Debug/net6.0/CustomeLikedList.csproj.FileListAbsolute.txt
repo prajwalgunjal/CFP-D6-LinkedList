@@ -1,0 +1,15 @@
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\bin\Debug\net6.0\CustomeLikedList.exe
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\bin\Debug\net6.0\CustomeLikedList.deps.json
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\bin\Debug\net6.0\CustomeLikedList.runtimeconfig.json
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\bin\Debug\net6.0\CustomeLikedList.dll
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\bin\Debug\net6.0\CustomeLikedList.pdb
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.csproj.AssemblyReference.cache
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.AssemblyInfoInputs.cache
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.AssemblyInfo.cs
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.csproj.CoreCompileInputs.cache
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.dll
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\refint\CustomeLikedList.dll
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.pdb
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\CustomeLikedList.genruntimeconfig.cache
+C:\Users\prajw\source\repos\CustomeLikedList\CustomeLikedList\obj\Debug\net6.0\ref\CustomeLikedList.dll
