@@ -53,6 +53,34 @@ namespace CustomeLikedList
             }
         }
 
+        public void DeleteLast()
+        {
+           
+            if (head == null)
+            {
+                Console.WriteLine("No Data Avaliable");
+            }
+            if (head == tail)
+            {
+                Console.WriteLine(head.Data+" Deleted successfully");
+                head = null;
+            }
+
+            Node<T> TempNode = head;
+            while (TempNode.next != tail)
+            {
+                TempNode = TempNode.next;
+                
+            }
+            if (TempNode.next == tail)
+            {
+                Console.WriteLine(tail.Data + " Deleted successfully");
+                TempNode.next = null;
+                tail = TempNode;
+            }
+
+        }
+
         public void Display()
         {
             Node<T> temp = head;

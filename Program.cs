@@ -15,6 +15,9 @@
             Console.WriteLine();
             list.DeleteFirst();
             list.Display();
+            Console.WriteLine();
+            list.DeleteLast();
+            list.Display();
         }
     }
 }
